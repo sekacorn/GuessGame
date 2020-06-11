@@ -19,9 +19,9 @@ public class GuessGame {
 		String guesses = " ";
 		char letter = ' ';
 		//An Array  that contains Twenty(20) available words to be used in game.
-		String[] words = { "elephant", "analog", " guitar", "computer",
+		String[] words = { "elephant", "analog", "guitar", "computer",
 				"jersey", "monkey", "donkey", "mother", "father", "awesome",
-				"school", "Lion", "bench", "answer", "enter", " house",
+				"school", "Lion", "bench", "answer", "enter", "house",
 				"promote", "given", "sister", "brother" };
 		String word = " ";
 		char guess1;
